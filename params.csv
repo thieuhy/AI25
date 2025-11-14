@@ -1,0 +1,2 @@
+sku,unit_cost,holding_cost_per_day,stockout_cost,lead_time_days,min_order_qty,service_level
+A-101,10,0.5,5,7,100,0.95
